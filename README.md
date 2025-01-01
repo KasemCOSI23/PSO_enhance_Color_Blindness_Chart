@@ -12,7 +12,7 @@ We used Specim V10E camera to capture and process spectral data (400–1000 nm)
   - `numpy`
   - `matplotlib`
   - `opencv-python`
-  - 
+  
 ### Setup Instructions
 1. **Clone the repository** to your local machine:
    ```bash
@@ -23,7 +23,6 @@ We used Specim V10E camera to capture and process spectral data (400–1000 nm)
    Sample, Wavelength  = read_envi('your own Sample path')
    Darkref, _ = read_envi('your own Darkref path')
    Whiteref, _ = read_envi('your own Whiteref path')
-
    ```
 ### Result
 #### You can see some examples of result in Result folder.
