@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+ <file type="darkref" extension="raw">capture/DARKREF_sample_scan_0009.raw</file>
+ <file type="darkref" extension="hdr">capture/DARKREF_sample_scan_0009.hdr</file>
+ <file type="whiteref" extension="raw">capture/WHITEREF_sample_scan_0009.raw</file>
+ <file type="whiteref" extension="hdr">capture/WHITEREF_sample_scan_0009.hdr</file>
+ <file type="capture" extension="raw">capture/sample_scan_0009.raw</file>
+ <file type="capture" extension="hdr">capture/sample_scan_0009.hdr</file>
+ <file type="properties" extension="xml">metadata/sample_scan_0009.xml</file>
+ <file type="properties" extension="xsl">metadata/sample_scan_0009.xsl</file>
+ <file type="preview" extension="png">sample_scan_0009.png</file>
+</manifest>

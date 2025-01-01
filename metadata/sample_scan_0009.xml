@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="sample_scan_0009.xsl"?>
+<properties><header><key field="sensor type">sCMOS</key>
+        <key field="sensor id">560007</key>
+        <key field="frame rate">40</key>
+        <key field="integration time">17.000563380282</key>
+        <key field="samples">2144</key>
+        <key field="active bands">270</key>
+        <key field="spatial binning">1</key>
+        <key field="spectral binning">4</key>
+        <key field="frames recorded">641</key>
+        <key field="frames dropped">0</key>
+        <key field="data format">BIL</key>
+        <key field="date">2024-09-10</key>
+        <key field="date text">Tuesday, September 10, 2024</key>
+        <key field="time">12:00:56</key>
+        <key field="calibration pack">C:/Users/asennus/Documents/Specim/560007_20160620_OL23.scp</key>
+    </header>
+    <userdefined><key field="sample name">scan</key>
+        <key field="operator">DS</key>
+        <key field="description"></key>
+        <key field="sensor temperature">26.54</key>
+        <key field="scb channel1 temperature">24.027542114258</key>
+        <key field="scb channel2 temperature">-57.192802429199</key>
+        <key field="scb channel3 temperature">26.100133895874</key>
+        <key field="scb channel4 temperature">19.28982925415</key>
+        <key field="sensor prefix">sample</key>
+    </userdefined>
+</properties>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+ <property name="countervalue">0009</property>
+ <property name="name">scan</property>
+ <property name="prefix">sample</property>
+ <property name="namingformat">prefix_name_counter</property>
+ <property name="timestampformat">!%Y-%m-%d_%H-%M-%S</property>
+ <property name="timestamp">2024-09-10_12-00-56</property>
+</properties>

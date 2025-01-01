@@ -1,0 +1,10 @@
+- Light source: Ledmotive Spectra Tune Lab (10 LEDs)
+- Sample: Edmund Optics diffuse white reflectance target (size: 30 cm x 30 cm; material: Spectralon; reflectance: 99%)
+- Measurement device: Hamamatsu PMA-12 fiber spectrometer
+
+- measurement geometry: 0/45
+- exposure time = 95 ms
+- averaging = 10 spectra
+
+- each LED's emission spectrum was measured separately (at full power)
+- dark noise spectrum has been subtracted from measured spectra
