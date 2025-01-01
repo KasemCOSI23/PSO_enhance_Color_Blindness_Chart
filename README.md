@@ -20,7 +20,7 @@ We used Specim V10E camera to capture and process spectral data (400–1000 nm)
    ```
 2. **Runnung Practical_work.py file in VScode or other software you want**
    
-   However, you need your own Sample, Dark reference and White reference data:
+   However, you need to put your own Sample, Dark reference and White reference data paths:
    ```bash
    Sample, Wavelength  = read_envi('your own Sample path')
    Darkref, _ = read_envi('your own Darkref path')
