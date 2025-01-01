@@ -18,7 +18,8 @@ We used Specim V10E camera to capture and process spectral data (400–1000 nm)
    ```bash
    https://github.com/KasemCOSI23/PSO_enhance_Color_Blindness_Chart.git
    ```
-2. **Runnung Practical_work.py file in VScode or other software you want** However, you need your own Sample, Dark reference and White reference data:
+2. **Runnung Practical_work.py file in VScode or other software you want**
+   However, you need your own Sample, Dark reference and White reference data:
    ```bash
    Sample, Wavelength  = read_envi('your own Sample path')
    Darkref, _ = read_envi('your own Darkref path')
